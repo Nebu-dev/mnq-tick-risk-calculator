@@ -2,6 +2,10 @@
 
 ![MNQ Tick-to-Dollar Risk Calculator](nebu-calulator-risk.png)
 
+## Try it
+
+👉 [Open the calculator on Scratch](https://scratch.mit.edu/projects/1335520014)
+
 A simple Scratch project that converts MNQ stop size in ticks into estimated dollar risk.
 
 This project was created while learning programming fundamentals in CS50x. I customized it around trading because my goal is to become a Trading Software Developer.
@@ -60,4 +64,3 @@ MNQ TICK RISK CALCULATOR.sb3
 ## Project context
 
 This is my first programming project while studying CS50x. I built it around MNQ trading risk because I am learning programming with the goal of becoming a Trading Software Developer focused on trading tools, backtesting, and risk management.
-
